@@ -57,7 +57,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("file:///C:/Users/Derek/Desktop/VS%20Code%20Dev/Pre-Course%20Work/Homework-5-12-22/Assets/Images/digital-marketing-meeting.jpg");
+    background-image: url(../Images/digital-marketing-meeting.jpg);
     background-size: cover;
     background-position: center;
 }
